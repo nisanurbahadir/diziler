@@ -1,0 +1,10 @@
+C:\Users\asus\Desktop\C#\Form Uygulamaları\dizi_listeleme\bin\Debug\dizi_listeleme.exe.config
+C:\Users\asus\Desktop\C#\Form Uygulamaları\dizi_listeleme\bin\Debug\dizi_listeleme.exe
+C:\Users\asus\Desktop\C#\Form Uygulamaları\dizi_listeleme\bin\Debug\dizi_listeleme.pdb
+C:\Users\asus\Desktop\C#\Form Uygulamaları\dizi_listeleme\obj\Debug\dizi_listeleme.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\C#\Form Uygulamaları\dizi_listeleme\obj\Debug\dizi_listeleme.Form1.resources
+C:\Users\asus\Desktop\C#\Form Uygulamaları\dizi_listeleme\obj\Debug\dizi_listeleme.Properties.Resources.resources
+C:\Users\asus\Desktop\C#\Form Uygulamaları\dizi_listeleme\obj\Debug\dizi_listeleme.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\C#\Form Uygulamaları\dizi_listeleme\obj\Debug\dizi_listeleme.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C#\Form Uygulamaları\dizi_listeleme\obj\Debug\dizi_listeleme.exe
+C:\Users\asus\Desktop\C#\Form Uygulamaları\dizi_listeleme\obj\Debug\dizi_listeleme.pdb
